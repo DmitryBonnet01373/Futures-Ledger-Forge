@@ -23,3 +23,4 @@ Notes and usage details for Futures-Ledger-Forge.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
