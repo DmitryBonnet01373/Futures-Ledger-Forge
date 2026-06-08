@@ -34,3 +34,4 @@ Notes and usage details for Futures-Ledger-Forge.
 - add a note about the defaults
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
